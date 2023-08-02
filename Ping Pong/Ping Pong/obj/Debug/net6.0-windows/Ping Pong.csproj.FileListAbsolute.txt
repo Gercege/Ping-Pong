@@ -1,0 +1,17 @@
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\bin\Debug\net6.0-windows\Ping Pong.exe
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\bin\Debug\net6.0-windows\Ping Pong.deps.json
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\bin\Debug\net6.0-windows\Ping Pong.runtimeconfig.json
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\bin\Debug\net6.0-windows\Ping Pong.dll
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\bin\Debug\net6.0-windows\Ping Pong.pdb
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.csproj.AssemblyReference.cache
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping_Pong.Form1.resources
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.csproj.GenerateResource.cache
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.AssemblyInfoInputs.cache
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.AssemblyInfo.cs
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.csproj.CoreCompileInputs.cache
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.dll
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\refint\Ping Pong.dll
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.pdb
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\Ping Pong.genruntimeconfig.cache
+C:\Users\Gerce\source\repos\Ping Pong\Ping Pong\obj\Debug\net6.0-windows\ref\Ping Pong.dll
